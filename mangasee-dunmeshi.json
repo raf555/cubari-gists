@@ -4,5 +4,16 @@
   "artist": "Ryoko Kui",
   "author": "Ryoko Kui",
   "cover": "https://mangadex.org/covers/d90ea6cb-7bc3-4d80-8af0-28557e6c4e17/36cbccf8-b9f2-4ee1-952c-df6b84033b05.jpg",
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "0",
+      "volume": "0",
+      "last_updated": "1716098029",
+      "groups": {
+        "test": [
+          "1"
+        ]
+      }
+    }
+  }
 }
